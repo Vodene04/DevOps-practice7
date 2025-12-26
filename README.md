@@ -22,7 +22,7 @@ cd ~/docker-practice
 
 ### Создание файлов entrypoint.sh и dockerfile
 
-Создание скрипта `entrypoint.sh` со следующим содержимым:
+Создание `entrypoint.sh` со следующим содержимым:
 
 ```bash
 #!/bin/bash
